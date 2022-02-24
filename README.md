@@ -1,16 +1,3 @@
-# carbon_email
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (26)](https://user-images.githubusercontent.com/49198022/155618951-26a58fd3-f84b-4a91-bcc5-fc6aef48ad77.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/49198022/155618962-e793ec87-d4ea-436a-a82c-19aa859df7ba.png)
